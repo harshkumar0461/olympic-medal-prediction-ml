@@ -118,12 +118,9 @@ What I learned / next steps
 
 ✅ Interpreting MAE and R²
 
-## Contributing
+## 🤝 Contributing
 
 Suggestions and pull requests are welcome — especially for:
-
-better features,
-
-clearer visualizations,
-
-and links to the original data source.
+- Better features  
+- Clearer visualizations  
+- Links to the original data source  
