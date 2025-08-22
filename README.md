@@ -10,6 +10,10 @@ Medals vs Athletes
 
 Medals vs Age
 
+<img width="580" height="413" alt="download (2)" src="https://github.com/user-attachments/assets/f8c435f9-5821-42f4-9481-d732828fc800" />
+
+Medal Histogram
+
 ## Why this project?
 
 I wanted an approachable, *learn-by-doing* project that touches the full ML workflow: loading data, exploring it, training a model, evaluating results, and sharing everything in a clean, reproducible notebook. This repo is the result.
